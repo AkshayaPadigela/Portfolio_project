@@ -109,6 +109,7 @@ html,body{
     margin: 20px;
     transition: transform 0.3s, box-shadow 0.3s;
     background-color: #f8f3f3;
+    font-weight: bolder;
 }
 
 
