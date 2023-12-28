@@ -24,6 +24,7 @@ html,body{
     top: 52%;
     transform: translateY(-50%);
     width:50%;
+    filter:drop-shadow(16px 16px 20px rgb(22, 22, 112)) ;
 }
 #page>#nav{
     display: flex;
